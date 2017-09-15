@@ -25,8 +25,14 @@ $ git commit
 
 $ git push
 
+$ git clone
+
+$ git pull
+
 $ git remote rename <old> <new>
 
 $ git branch	
 
-And guess what.!!? this is from a branch
+$ git merge
+
+$ git rm --chached [file]
